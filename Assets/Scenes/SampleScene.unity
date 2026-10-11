@@ -5810,7 +5810,7 @@ MonoBehaviour:
   treePrefabs:
   - {fileID: 5342750545267417513, guid: 7463778433accfc49b0f62e403dc1327, type: 3}
   numberOfTrees: 100000
-  areaSize: 1000
+  areaSize: 750
   clearRadius: 1
   minScale: 0.8
   maxScale: 1.3
